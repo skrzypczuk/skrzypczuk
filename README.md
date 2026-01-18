@@ -1,6 +1,6 @@
 # 💫 About Me:
 ```SWIFT
-struct XSkrzypczak {
+struct Skrzypczuk {
   let name = "Mikolaj Skrzypczak"
   let nicknames = ["Skrzypczuk", "XSkrzypczak"]
   let pronouns = "he/him"
